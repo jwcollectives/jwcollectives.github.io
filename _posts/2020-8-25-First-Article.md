@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Title of your article
+title: How to write blog post
 published: true
 ---
 
-This is the awesome content of my first blog post.
-
-![](https://wp-en.oberlo.com/wp-content/uploads/2019/11/motivational-quotes-of-the-day.jpg)
+Start out by writing the content for the blog in a text document
