@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title of your article
+title: This is the new title of the article
 published: true
 ---
 
